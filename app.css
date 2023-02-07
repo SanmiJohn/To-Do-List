@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-color: #9d4edd;
+    text-align: center;
+}
+
+main {
+    width: 20rem;
+    height: 30rem;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+
+section {
+    background-color: white;
+    width: 20rem;
+    height: 5rem;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #6f2dbd;
+    color: white;
+    border: none;
+}
+
+section>input {
+    margin-top: 1.5rem;
+    margin-right: 1rem;
+    width: 12rem;
+    padding: 0.3rem;
+}
+
+section>button {
+    width: 3rem;
+    height: 1.9rem;
+    border-radius: 5px;
+}

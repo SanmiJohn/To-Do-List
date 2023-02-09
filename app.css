@@ -14,9 +14,10 @@ main {
 
 section {
     background-color: white;
-    width: 20rem;
+    width: 25rem;
     height: 5rem;
     border-radius: 5px;
+    margin-bottom: 3rem;
 }
 
 button {
@@ -28,12 +29,19 @@ button {
 section>input {
     margin-top: 1.5rem;
     margin-right: 1rem;
-    width: 12rem;
+    width: 15rem;
     padding: 0.3rem;
 }
 
 section>button {
-    width: 3rem;
+    width: 4rem;
     height: 1.9rem;
+    border-radius: 5px;
+}
+
+.todoitems {
+    background-color: white;
+    width: 25rem;
+    height: 5rem;
     border-radius: 5px;
 }

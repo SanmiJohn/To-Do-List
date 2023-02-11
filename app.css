@@ -42,6 +42,32 @@ section>button {
 .todoitems {
     background-color: white;
     width: 25rem;
-    height: 5rem;
-    border-radius: 5px;
+    height: 3rem;
+    border-radius: 7px;
+    padding-top: 2rem;
+    margin-top: -0.9rem;
+}
+
+.hrline {
+    width: 23rem;
+}
+
+.fa-solid {
+    color: #6f2dbd;
+    float: right;
+    margin-right: 2rem;
+    /* margin-top: 0.3rem; */
+    margin-bottom: 0.7rem;
+}
+
+.todowords {
+    float: left;
+    margin-left: 2rem;
+    /* margin-top: 0.3rem; */
+    margin-bottom: 0.7rem;
+}
+
+.crossitem {
+    color: black;
+    text-decoration: line-through;
 }
